@@ -1,2 +1,2 @@
 # datasheet-upload
-hasil pembacaan emisi gas untuk sepeda motor
+hasil pembacaan emisi gas buang kendaraan bermotor
